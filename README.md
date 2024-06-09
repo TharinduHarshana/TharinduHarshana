@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tharindu Harshana</h1>
 <h3 align="center">"Developing E-commerce websites and POS systems with React, JavaScript, HTML, and CSS."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharinduharshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduharshana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tharinduharshana&label=Profile%20views&color=0e75b6&style=flat" alt="tharinduharshana" /> </p>
 
-- 🔭 I’m currently working on [Aconex Computer](https://github.com/TharinduHarshana/Acconexfrontend)
+- 🔭 I’m currently working on [One Place Solution]([https://github.com/TharinduHarshana/Acconexfrontend](https://github.com/OnePlace-Solutions))
 
 - 🌱 I’m currently learning **MERN Stack**
 
